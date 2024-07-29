@@ -10,12 +10,18 @@ Receive the file paths sent by the client, find these files through the consumer
 You need to enter the number of threads and ports.
 
 # How to use
+Compile:
+
 `$ make`
+
+Client command:
 
 `$ ./client [Timestamp] [IP] [Port]`
 
 ![image](https://github.com/oh6400/Socket-Send-Data-Multi-Threaded-Producer-Consumer/blob/main/img/client.png)
 
-`$ ./server [number of threads] [Port]`
+Server command:
+
+`$ ./server [Number of Threads] [Port]`
 
 ![image](https://github.com/oh6400/Socket-Send-Data-Multi-Threaded-Producer-Consumer/blob/main/img/server.png)
