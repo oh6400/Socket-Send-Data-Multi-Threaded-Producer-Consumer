@@ -12,10 +12,10 @@ You need to enter the number of threads and ports.
 # How to use
 `$ make`
 
-`$ ./client 1719837120 127.0.0.1 5005`
+`$ ./client [Timestamp] [IP] [Port]`
 
 ![image](https://github.com/oh6400/Socket-Send-Data-Multi-Threaded-Producer-Consumer/blob/main/img/client.png)
 
-`$ ./server 8 5005`
+`$ ./server [number of threads] [Port]`
 
 ![image](https://github.com/oh6400/Socket-Send-Data-Multi-Threaded-Producer-Consumer/blob/main/img/server.png)
