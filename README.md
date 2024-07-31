@@ -1,5 +1,5 @@
 # Socket-Send-Data-Multi-Threaded-Producer-Consumer
-I learned how to create multi-threaded programs, and learned how to use sockets to transmit and receive data.
+This project is based on the producer-consumer model. Throughout the project, I employed C++ to implement multi-execution continuation programs and utilized sockets for data exchange. I undertook this exercise to deepen my understanding of these concepts and their practical application.
 
 # Description
 ## Client:
